@@ -11,7 +11,7 @@ void setup()
 }
 void draw()
 {
-  
+ 
   stroke(255,255,0);
 if( endY <= 600){
   endX = startX + ((int)((Math.random()*14)- 7));
